@@ -1,5 +1,5 @@
 ```
-This python file si a goood starting pouint.
+This python file is a good starting point
 Activation Funstions
 ```
 
