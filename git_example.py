@@ -1,6 +1,6 @@
 ```
 This python file is a good starting point
-Activation Funstions
+Activation Functions
 ```
 
 #libraries
